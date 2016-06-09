@@ -1,6 +1,6 @@
 ### Basic Concepts, Terms, and Overviews
 
-- [ ] **React How-To**  
+- [x] **React How-To**  
   https://github.com/petehunt/react-howto  
   Pete Hunt, one of React's creators, gives a high-level suggested order to use when learning React-related technologies (React, NPM, bundlers, ES6, routing, and Flux/Redux)
   
