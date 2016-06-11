@@ -4,7 +4,7 @@
   https://github.com/petehunt/react-howto  
   Pete Hunt, one of React's creators, gives a high-level suggested order to use when learning React-related technologies (React, NPM, bundlers, ES6, routing, and Flux/Redux)
   
-- [ ] **State of the Javascript Landscape in 2016**  
+- [x] **State of the Javascript Landscape in 2016**  
   http://www.infoq.com/articles/state-of-javascript-2016  
   A very high-level summary of the important terms and technologies that are used in modern Javascript development.
   
