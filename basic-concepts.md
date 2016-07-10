@@ -8,8 +8,8 @@
   http://www.infoq.com/articles/state-of-javascript-2016  
   A very high-level summary of the important terms and technologies that are used in modern Javascript development.
   
-- [ ] **The Hitchiker's Guide to Modern JS Tooling**  
-  http://reactkungfu.com/2015/07/the-hitchhikers-guide-to-modern-javascript-tooling/  
+- [x] **The Hitchiker's Guide to Modern JS Tooling**  
+  http://reactkungfu.com/2015/07/the-hitchhikers-guide-to-modern-javascript-tooling
   A great overview of many of the most common build tools, package managers, test frameworks, and code quality tools currently in use
   
 - [ ] **State of the Art Javascript in 2016**  
