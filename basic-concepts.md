@@ -17,7 +17,7 @@
   An opinionated list of what tools and libraries a modern JS development stack should include, plus links to further resources.
   
 - [ ] **Timeline for Learning React**  
-  https://daveceddia.com/timeline-for-learning-react/  
+  https://daveceddia.com/timeline-for-learning-react  
   Another high-level suggested timeline for how to approach learning React and related technologies.
   
 - [ ] **Learn the Javascript Ecosystem one package at a time**  
